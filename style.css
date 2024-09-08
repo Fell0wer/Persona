@@ -3,7 +3,7 @@ h1 {
 }
 
 .video-container video {
-    min-width: 100%;
+    min-width: auto;
     min-height: 100%;
     width: auto !important;
     height: 100% !important;
