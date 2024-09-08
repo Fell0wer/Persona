@@ -3,7 +3,7 @@ h1 {
 }
 
 .video-container {
-    position: relative;
+    position: absolute;
     padding-bottom: 50%;
     height: 0;
 }
