@@ -2,14 +2,6 @@ h1 {
     color: lightskyblue;
 }
 
-.video-container {
-    position: relative;
-  padding-bottom: 56.25%;
-  padding-top: 30px;
-  height: 0;
-  overflow: hidden;
-}
-
 .video-container video {
     min-width: 100%;
     min-height: 100%;
