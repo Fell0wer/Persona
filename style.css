@@ -3,7 +3,7 @@ h1 {
 }
 
 html {
-    height: 100vh;
+    height: 120vh;
     overflow-y: scroll;
     scroll-snap-type: y mandatory;
 }
